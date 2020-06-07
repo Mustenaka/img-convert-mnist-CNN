@@ -41,11 +41,11 @@ print(identify("./pic/test.png","./mode/output.tar"))
 
 本人使用python3.7，需要调用到以下的库，需要提前安装CUDA10：
 
-pillow
-opencv-python
-torch==1.2.0
-torchvision==0.4.0
-scipy
+1. pillow
+2. opencv-python
+3. torch==1.2.0
+4. torchvision==0.4.0
+5. scipy
 
 
 
