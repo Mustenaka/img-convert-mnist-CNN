@@ -49,9 +49,3 @@ scipy
 
 如果允许convert-images-to-mnist-format.py则还需要给电脑安装gzip，可以在这个页面下载WINDOWS版本http://gnuwin32.sourceforge.net/packages/gzip.htm
 
-
-
-
-
-# img-convert-mnist-CNN
-# img-convert-mnist-CNN
