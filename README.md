@@ -10,7 +10,9 @@
 
 首先请将你需要的数据预处理为28*28尺寸的二值化图片，标准的mnist格式也是如此，或者是处理成灰度图的格式，请尽量自主排除干扰信息，文件格式默认为png，可以修改convert-images-to-mnist-format.py的第9行代码。
 
-将你自己预处理好的图片分别存放在data目录下的training-images目录和test-images目录，并且以再该目录下创建你所需要分类个数的子文件夹，子文件夹的命名就是图片的标签。![1-1](.\1-1.png)
+将你自己预处理好的图片分别存放在data目录下的training-images目录和test-images目录，并且以再该目录下创建你所需要分类个数的子文件夹，子文件夹的命名就是图片的标签。
+
+【data的格式如下】
 ![1-1](https://github.com/Mustenaka/img-convert-mnist-CNN/blob/master/1-1.png)
 
 
